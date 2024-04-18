@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.19",
+    "qr-image": "^3.2.0"
+  },
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam",
+  "license": "ISC",
+  "description": "This is a simple QR code Generator app where we can type / paste a link and it will generate a image (.png) \r -->\r Using inquirer npm package to get user input \r qr - image npm to convert url to Qr code image\r <--",
+  "devDependencies": {},
+  "keywords": []
+}
